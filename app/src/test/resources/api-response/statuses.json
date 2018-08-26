@@ -1,0 +1,2758 @@
+[
+  {
+    "created_at": "Mon Aug 20 15:51:15 +0000 2018",
+    "id": 1031569358391324673,
+    "id_str": "1031569358391324673",
+    "full_text": "Keep your eyes on our Events page as we share our Autumn/Winter programme of AND Breakfasts. We've a fantastic array of speakers and topics coming - from innovation models to Blockchain and progressive replatforming. All served up with a hearty breakfast. https://t.co/qavVuTlU4A https://t.co/rc0cPHXT8Q",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qavVuTlU4A",
+          "expanded_url": "http://bit.ly/ANDEvents",
+          "display_url": "bit.ly/ANDEvents",
+          "indices": [
+            256,
+            279
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1031569302925860864,
+          "id_str": "1031569302925860864",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/DlDe0MYX4AAYVCu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DlDe0MYX4AAYVCu.jpg",
+          "url": "https://t.co/rc0cPHXT8Q",
+          "display_url": "pic.twitter.com/rc0cPHXT8Q",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1031569358391324673/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1201,
+              "h": 631,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1031569302925860864,
+          "id_str": "1031569302925860864",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/DlDe0MYX4AAYVCu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DlDe0MYX4AAYVCu.jpg",
+          "url": "https://t.co/rc0cPHXT8Q",
+          "display_url": "pic.twitter.com/rc0cPHXT8Q",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1031569358391324673/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1201,
+              "h": 631,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 26 10:50:19 +0000 2018",
+    "id": 1022433931122147336,
+    "id_str": "1022433931122147336",
+    "full_text": "RT @LouisBougeard: Team @AND_Digital hard at work at the @eShopWorld hackathon #ESWHackathon2018 https://t.co/rAK13MgLq2",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      120
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ESWHackathon2018",
+          "indices": [
+            79,
+            96
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LouisBougeard",
+          "name": "Louis Bougeard",
+          "id": 308014565,
+          "id_str": "308014565",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "AND_Digital",
+          "name": "AND Digital",
+          "id": 2362635278,
+          "id_str": "2362635278",
+          "indices": [
+            24,
+            36
+          ]
+        },
+        {
+          "screen_name": "eShopWorld",
+          "name": "eShopWorld",
+          "id": 1907073630,
+          "id_str": "1907073630",
+          "indices": [
+            57,
+            68
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1022421532918853632,
+          "id_str": "1022421532918853632",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+          "url": "https://t.co/rAK13MgLq2",
+          "display_url": "pic.twitter.com/rAK13MgLq2",
+          "expanded_url": "https://twitter.com/LouisBougeard/status/1022421546743279616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1022421546743279616,
+          "source_status_id_str": "1022421546743279616",
+          "source_user_id": 308014565,
+          "source_user_id_str": "308014565"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1022421532918853632,
+          "id_str": "1022421532918853632",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+          "url": "https://t.co/rAK13MgLq2",
+          "display_url": "pic.twitter.com/rAK13MgLq2",
+          "expanded_url": "https://twitter.com/LouisBougeard/status/1022421546743279616/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 1022421546743279616,
+          "source_status_id_str": "1022421546743279616",
+          "source_user_id": 308014565,
+          "source_user_id_str": "308014565"
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 26 10:01:07 +0000 2018",
+      "id": 1022421546743279616,
+      "id_str": "1022421546743279616",
+      "full_text": "Team @AND_Digital hard at work at the @eShopWorld hackathon #ESWHackathon2018 https://t.co/rAK13MgLq2",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        77
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "ESWHackathon2018",
+            "indices": [
+              60,
+              77
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              5,
+              17
+            ]
+          },
+          {
+            "screen_name": "eShopWorld",
+            "name": "eShopWorld",
+            "id": 1907073630,
+            "id_str": "1907073630",
+            "indices": [
+              38,
+              49
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1022421532918853632,
+            "id_str": "1022421532918853632",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+            "url": "https://t.co/rAK13MgLq2",
+            "display_url": "pic.twitter.com/rAK13MgLq2",
+            "expanded_url": "https://twitter.com/LouisBougeard/status/1022421546743279616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1022421532918853632,
+            "id_str": "1022421532918853632",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjBe95hWsAA_oE0.jpg",
+            "url": "https://t.co/rAK13MgLq2",
+            "display_url": "pic.twitter.com/rAK13MgLq2",
+            "expanded_url": "https://twitter.com/LouisBougeard/status/1022421546743279616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 308014565,
+        "id_str": "308014565",
+        "name": "Louis Bougeard",
+        "screen_name": "LouisBougeard",
+        "location": "Bath/Durham/Granada/London",
+        "description": "Not all heroes wear capes... some wear Barbour.  Building bits of the Internet for @and_digital",
+        "url": "https://t.co/3a8UH2BhO6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/3a8UH2BhO6",
+                "expanded_url": "http://bougeard.xyz",
+                "display_url": "bougeard.xyz",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 405,
+        "friends_count": 1257,
+        "listed_count": 20,
+        "created_at": "Mon May 30 17:49:01 +0000 2011",
+        "favourites_count": 317,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1794,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1028989331694866432/4POCF22-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028989331694866432/4POCF22-_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/308014565/1534165235",
+        "profile_link_color": "222222",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 26 10:50:15 +0000 2018",
+    "id": 1022433914365911040,
+    "id_str": "1022433914365911040",
+    "full_text": "RT @CPapprentice: @AND_Digital are looking for an IT #Apprentice to mentor and offer training to equip them for the duties of building, tro…",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Apprentice",
+          "indices": [
+            53,
+            64
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CPapprentice",
+          "name": "CreativePioneers²",
+          "id": 262611211,
+          "id_str": "262611211",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "AND_Digital",
+          "name": "AND Digital",
+          "id": 2362635278,
+          "id_str": "2362635278",
+          "indices": [
+            18,
+            30
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 26 10:01:13 +0000 2018",
+      "id": 1022421572592852993,
+      "id_str": "1022421572592852993",
+      "full_text": "@AND_Digital are looking for an IT #Apprentice to mentor and offer training to equip them for the duties of building, troubleshooting and improving our internal services.\n\nApply today: https://t.co/ocwnQjU2RZ https://t.co/NnGWf9PTRJ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Apprentice",
+            "indices": [
+              35,
+              46
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ocwnQjU2RZ",
+            "expanded_url": "https://hubs.ly/H0d7r050",
+            "display_url": "hubs.ly/H0d7r050",
+            "indices": [
+              185,
+              208
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1022421570608742400,
+            "id_str": "1022421570608742400",
+            "indices": [
+              209,
+              232
+            ],
+            "media_url": "http://pbs.twimg.com/media/DjBfAF7UwAAoUv-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjBfAF7UwAAoUv-.jpg",
+            "url": "https://t.co/NnGWf9PTRJ",
+            "display_url": "pic.twitter.com/NnGWf9PTRJ",
+            "expanded_url": "https://twitter.com/CPapprentice/status/1022421572592852993/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1022421570608742400,
+            "id_str": "1022421570608742400",
+            "indices": [
+              209,
+              232
+            ],
+            "media_url": "http://pbs.twimg.com/media/DjBfAF7UwAAoUv-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DjBfAF7UwAAoUv-.jpg",
+            "url": "https://t.co/NnGWf9PTRJ",
+            "display_url": "pic.twitter.com/NnGWf9PTRJ",
+            "expanded_url": "https://twitter.com/CPapprentice/status/1022421572592852993/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 2362635278,
+      "in_reply_to_user_id_str": "2362635278",
+      "in_reply_to_screen_name": "AND_Digital",
+      "user": {
+        "id": 262611211,
+        "id_str": "262611211",
+        "name": "CreativePioneers²",
+        "screen_name": "CPapprentice",
+        "location": "England",
+        "description": "Follow us for our latest apprenticeship opportunities, specialising in the Creative and Digital industries. Full list of vacancies: 👉https://t.co/fHlyu5faOI 👈",
+        "url": "https://t.co/cU65xvzvnp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cU65xvzvnp",
+                "expanded_url": "http://www.creativepioneers2.co.uk/",
+                "display_url": "creativepioneers2.co.uk",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/fHlyu5faOI",
+                "expanded_url": "http://bit.ly/CP2jobs",
+                "display_url": "bit.ly/CP2jobs",
+                "indices": [
+                  133,
+                  156
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 1894,
+        "friends_count": 686,
+        "listed_count": 140,
+        "created_at": "Tue Mar 08 11:39:40 +0000 2011",
+        "favourites_count": 218,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5400,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/985837022446342144/GoThfzQy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/985837022446342144/GoThfzQy_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/262611211/1520356151",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jul 25 08:43:59 +0000 2018",
+    "id": 1022039750566391808,
+    "id_str": "1022039750566391808",
+    "full_text": "We here at AND Digital, are very excited to announce, that we have now entered a #global #partnership with @mobify, the leading provider of Progressive Web Apps (PWAs) for e-commerce! Read more on this exciting new partnership here; https://t.co/EZUijhSjzP https://t.co/DnywJgv82q",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      256
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "global",
+          "indices": [
+            81,
+            88
+          ]
+        },
+        {
+          "text": "partnership",
+          "indices": [
+            89,
+            101
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mobify",
+          "name": "Mobify",
+          "id": 17368670,
+          "id_str": "17368670",
+          "indices": [
+            107,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EZUijhSjzP",
+          "expanded_url": "https://and.digital/blog/and-digital-partner-with-mobify/",
+          "display_url": "and.digital/blog/and-digit…",
+          "indices": [
+            233,
+            256
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1022039603249917952,
+          "id_str": "1022039603249917952",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/media/Di8DmqoXsAATWqy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Di8DmqoXsAATWqy.jpg",
+          "url": "https://t.co/DnywJgv82q",
+          "display_url": "pic.twitter.com/DnywJgv82q",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1022039750566391808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1734,
+              "h": 1250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 865,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 490,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1022039603249917952,
+          "id_str": "1022039603249917952",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/media/Di8DmqoXsAATWqy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Di8DmqoXsAATWqy.jpg",
+          "url": "https://t.co/DnywJgv82q",
+          "display_url": "pic.twitter.com/DnywJgv82q",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1022039750566391808/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1734,
+              "h": 1250,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 865,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 490,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jul 23 15:15:33 +0000 2018",
+    "id": 1021413513003192320,
+    "id_str": "1021413513003192320",
+    "full_text": "We can't wait for you to start @BronteHampton 🙌👏 https://t.co/uIBe7SdRGI",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      48
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "BronteHampton",
+          "name": "Brontë Hampton",
+          "id": 924373800120143873,
+          "id_str": "924373800120143873",
+          "indices": [
+            31,
+            45
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uIBe7SdRGI",
+          "expanded_url": "https://twitter.com/BronteHampton/status/1021152429008654341",
+          "display_url": "twitter.com/BronteHampton/…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1021152429008654341,
+    "quoted_status_id_str": "1021152429008654341",
+    "quoted_status_permalink": {
+      "url": "https://t.co/uIBe7SdRGI",
+      "expanded": "https://twitter.com/BronteHampton/status/1021152429008654341",
+      "display": "twitter.com/BronteHampton/…"
+    },
+    "quoted_status": {
+      "created_at": "Sun Jul 22 21:58:05 +0000 2018",
+      "id": 1021152429008654341,
+      "id_str": "1021152429008654341",
+      "full_text": "Coming home from holiday to a lovely little gift from my industrial year employer, thank you @AND_Digital I’m so excited to start this job https://t.co/IrQhVlFHJb",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              93,
+              105
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1021152400453832704,
+            "id_str": "1021152400453832704",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/DivcsqqWkAAukIQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DivcsqqWkAAukIQ.jpg",
+            "url": "https://t.co/IrQhVlFHJb",
+            "display_url": "pic.twitter.com/IrQhVlFHJb",
+            "expanded_url": "https://twitter.com/BronteHampton/status/1021152429008654341/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1021152400453832704,
+            "id_str": "1021152400453832704",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/DivcsqqWkAAukIQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DivcsqqWkAAukIQ.jpg",
+            "url": "https://t.co/IrQhVlFHJb",
+            "display_url": "pic.twitter.com/IrQhVlFHJb",
+            "expanded_url": "https://twitter.com/BronteHampton/status/1021152429008654341/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 924373800120143873,
+        "id_str": "924373800120143873",
+        "name": "Brontë Hampton",
+        "screen_name": "BronteHampton",
+        "location": "Rawtenstall, England",
+        "description": "2nd Year Computer Science Student at Aberystwyth University",
+        "url": "https://t.co/IKr9QLBhaK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/IKr9QLBhaK",
+                "expanded_url": "http://linkedin.com/in/brontë-hampton-614562139",
+                "display_url": "linkedin.com/in/brontë-hamp…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 21,
+        "friends_count": 84,
+        "listed_count": 0,
+        "created_at": "Sat Oct 28 20:34:22 +0000 2017",
+        "favourites_count": 51,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 127,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/924375264343351296/Om1tmCSJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/924375264343351296/Om1tmCSJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/924373800120143873/1509223259",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jul 23 15:14:18 +0000 2018",
+    "id": 1021413199172816896,
+    "id_str": "1021413199172816896",
+    "full_text": "RT @paulicipop: Working as a Tech Lead at @AND_Digital is quite cool, check out the video where I explain some of the things we do here! #s…",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "paulicipop",
+          "name": "Paul Pop",
+          "id": 383843758,
+          "id_str": "383843758",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "AND_Digital",
+          "name": "AND Digital",
+          "id": 2362635278,
+          "id_str": "2362635278",
+          "indices": [
+            42,
+            54
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jul 23 14:03:04 +0000 2018",
+      "id": 1021395275494117377,
+      "id_str": "1021395275494117377",
+      "full_text": "Working as a Tech Lead at @AND_Digital is quite cool, check out the video where I explain some of the things we do here! #shotoniphone \n\nhttps://t.co/DrSO9Csxwv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shotoniphone",
+            "indices": [
+              121,
+              134
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              26,
+              38
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DrSO9Csxwv",
+            "expanded_url": "https://www.youtube.com/watch?v=_GzjnkA7aG4",
+            "display_url": "youtube.com/watch?v=_Gzjnk…",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 383843758,
+        "id_str": "383843758",
+        "name": "Paul Pop",
+        "screen_name": "paulicipop",
+        "location": "London, England",
+        "description": "Tech Lead 👨🏼\u200d💻 Nerd 🤓 at @AND_Digital. Father of one, role model of many 👨\u200d👦",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 98,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Sun Oct 02 16:30:06 +0000 2011",
+        "favourites_count": 40,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 38,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/886270006849400833/BLRWB1fm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/886270006849400833/BLRWB1fm_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jul 23 12:14:43 +0000 2018",
+    "id": 1021368005366878208,
+    "id_str": "1021368005366878208",
+    "full_text": "RT @SWAN_UK: Congratulations to Steven and Josh from team @AND_Digital who cycled from London to Paris to support SWAN UK! They've raised o…",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SWAN_UK",
+          "name": "SWAN_UK",
+          "id": 296341919,
+          "id_str": "296341919",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "AND_Digital",
+          "name": "AND Digital",
+          "id": 2362635278,
+          "id_str": "2362635278",
+          "indices": [
+            58,
+            70
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Mon Jul 23 09:48:28 +0000 2018",
+      "id": 1021331201309773824,
+      "id_str": "1021331201309773824",
+      "full_text": "Congratulations to Steven and Josh from team @AND_Digital who cycled from London to Paris to support SWAN UK! They've raised over £2,000 so far! Please help them reach their target: https://t.co/2f6z7QJ03X #undiagnosed https://t.co/sFRnfGzpNk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "undiagnosed",
+            "indices": [
+              206,
+              218
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              45,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2f6z7QJ03X",
+            "expanded_url": "http://ow.ly/lIlL30l4qAq",
+            "display_url": "ow.ly/lIlL30l4qAq",
+            "indices": [
+              182,
+              205
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1021331198033838080,
+            "id_str": "1021331198033838080",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dix_UDjUwAAbuS4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dix_UDjUwAAbuS4.jpg",
+            "url": "https://t.co/sFRnfGzpNk",
+            "display_url": "pic.twitter.com/sFRnfGzpNk",
+            "expanded_url": "https://twitter.com/SWAN_UK/status/1021331201309773824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 584,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 331,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 778,
+                "h": 1600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1021331198033838080,
+            "id_str": "1021331198033838080",
+            "indices": [
+              219,
+              242
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dix_UDjUwAAbuS4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dix_UDjUwAAbuS4.jpg",
+            "url": "https://t.co/sFRnfGzpNk",
+            "display_url": "pic.twitter.com/sFRnfGzpNk",
+            "expanded_url": "https://twitter.com/SWAN_UK/status/1021331201309773824/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 584,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 331,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 778,
+                "h": 1600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 296341919,
+        "id_str": "296341919",
+        "name": "SWAN_UK",
+        "screen_name": "SWAN_UK",
+        "location": "UK",
+        "description": "SWAN UK (Syndromes Without A Name) is run by @GeneticAll_UK offering support and information to families of children with undiagnosed conditions. #undiagnosed",
+        "url": "http://t.co/fJ8uYVIRXs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fJ8uYVIRXs",
+                "expanded_url": "http://www.undiagnosed.org.uk",
+                "display_url": "undiagnosed.org.uk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7774,
+        "friends_count": 4387,
+        "listed_count": 158,
+        "created_at": "Tue May 10 16:04:33 +0000 2011",
+        "favourites_count": 2458,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22354,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EC008C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1003638913683030016/_pQphL4q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003638913683030016/_pQphL4q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296341919/1528121166",
+        "profile_link_color": "EC008E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Jul 19 14:51:35 +0000 2018",
+    "id": 1019957933587738624,
+    "id_str": "1019957933587738624",
+    "full_text": "RT @shukii: 24 HOURS TO GO! 🇨🇵 🚴\u200d♂️ 🇬🇧\n\nI am actually cycling to Paris TOMORROW with @AND_Digital and Steven Ingram, raising money for @SWA…",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "shukii",
+          "name": "Josh Benson",
+          "id": 16256888,
+          "id_str": "16256888",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "AND_Digital",
+          "name": "AND Digital",
+          "id": 2362635278,
+          "id_str": "2362635278",
+          "indices": [
+            85,
+            97
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 19 08:34:23 +0000 2018",
+      "id": 1019863005046112257,
+      "id_str": "1019863005046112257",
+      "full_text": "24 HOURS TO GO! 🇨🇵 🚴\u200d♂️ 🇬🇧\n\nI am actually cycling to Paris TOMORROW with @AND_Digital and Steven Ingram, raising money for @SWAN_UK \n\nI am just over halfway to my fundraising target, and really need your help if you haven't donated already https://t.co/pTyHl7Kt2K",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              73,
+              85
+            ]
+          },
+          {
+            "screen_name": "SWAN_UK",
+            "name": "SWAN_UK",
+            "id": 296341919,
+            "id_str": "296341919",
+            "indices": [
+              123,
+              131
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pTyHl7Kt2K",
+            "expanded_url": "https://www.justgiving.com/fundraising/josh-benson",
+            "display_url": "justgiving.com/fundraising/jo…",
+            "indices": [
+              240,
+              263
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 16256888,
+        "id_str": "16256888",
+        "name": "Josh Benson",
+        "screen_name": "shukii",
+        "location": "London",
+        "description": "Technologist, Innovator, Dreamer",
+        "url": "https://t.co/glRTG4skbw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/glRTG4skbw",
+                "expanded_url": "http://www.joshjam.com",
+                "display_url": "joshjam.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 377,
+        "friends_count": 425,
+        "listed_count": 13,
+        "created_at": "Fri Sep 12 14:21:41 +0000 2008",
+        "favourites_count": 114,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 1070,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/477738386338639872/OXmrKvLl_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/477738386338639872/OXmrKvLl_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16256888/1469105869",
+        "profile_link_color": "00D6F2",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jul 18 13:19:00 +0000 2018",
+    "id": 1019572246283739136,
+    "id_str": "1019572246283739136",
+    "full_text": "AND Digital is delighted to announce that it has been recognised by Amazon Web Services (AWS) as a Standard Consulting Partner within the Amazon Partner Network (APN). Read more about this exciting news here; https://t.co/MbJJvmCvBi https://t.co/4IPFRNH9IZ",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MbJJvmCvBi",
+          "expanded_url": "https://and.digital/blog/and-digital-joins-amazon-web-services-partner-network/",
+          "display_url": "and.digital/blog/and-digit…",
+          "indices": [
+            209,
+            232
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1019572237106581505,
+          "id_str": "1019572237106581505",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiY_jDeWkAEZ81M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiY_jDeWkAEZ81M.jpg",
+          "url": "https://t.co/4IPFRNH9IZ",
+          "display_url": "pic.twitter.com/4IPFRNH9IZ",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1019572246283739136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 936,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 531,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1602,
+              "h": 1250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1019572237106581505,
+          "id_str": "1019572237106581505",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/DiY_jDeWkAEZ81M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DiY_jDeWkAEZ81M.jpg",
+          "url": "https://t.co/4IPFRNH9IZ",
+          "display_url": "pic.twitter.com/4IPFRNH9IZ",
+          "expanded_url": "https://twitter.com/AND_Digital/status/1019572246283739136/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 936,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 531,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1602,
+              "h": 1250,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jul 17 11:45:46 +0000 2018",
+    "id": 1019186392344289281,
+    "id_str": "1019186392344289281",
+    "full_text": "RT @SWAN_UK: We're doing a big shout out to Steven and Josh @shukii who are setting off on their three day cycle from London to Paris this…",
+    "truncated": false,
+    "display_text_range": [
+      0,
+      139
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SWAN_UK",
+          "name": "SWAN_UK",
+          "id": 296341919,
+          "id_str": "296341919",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "shukii",
+          "name": "Josh Benson",
+          "id": 16256888,
+          "id_str": "16256888",
+          "indices": [
+            60,
+            67
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2362635278,
+      "id_str": "2362635278",
+      "name": "AND Digital",
+      "screen_name": "AND_Digital",
+      "location": "London and Manchester",
+      "description": "We're a Times 100 Top Small Company and an Econsultancy Top 100 Digital Agency. We build and develop software products with our clients AND teach them as we go.",
+      "url": "https://t.co/P8lzMaP8Qv",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P8lzMaP8Qv",
+              "expanded_url": "http://and.digital",
+              "display_url": "and.digital",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1277,
+      "friends_count": 845,
+      "listed_count": 84,
+      "created_at": "Wed Feb 26 12:49:51 +0000 2014",
+      "favourites_count": 1436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1802,
+      "lang": "en-gb",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024669707541073924/gkZLWjCZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2362635278/1530626160",
+      "profile_link_color": "D93621",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "translator_type": "none"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 17 10:50:04 +0000 2018",
+      "id": 1019172376741928960,
+      "id_str": "1019172376741928960",
+      "full_text": "We're doing a big shout out to Steven and Josh @shukii who are setting off on their three day cycle from London to Paris this Friday as part of a team from @AND_Digital. Help them reach their fundraising target for SWAN UK: https://t.co/mVkFIIWgUH #charitytuesday #undiagnosed https://t.co/cYg4n08LY4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "charitytuesday",
+            "indices": [
+              248,
+              263
+            ]
+          },
+          {
+            "text": "undiagnosed",
+            "indices": [
+              264,
+              276
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "shukii",
+            "name": "Josh Benson",
+            "id": 16256888,
+            "id_str": "16256888",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "screen_name": "AND_Digital",
+            "name": "AND Digital",
+            "id": 2362635278,
+            "id_str": "2362635278",
+            "indices": [
+              156,
+              168
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/mVkFIIWgUH",
+            "expanded_url": "http://ow.ly/sLYl30kZdZN",
+            "display_url": "ow.ly/sLYl30kZdZN",
+            "indices": [
+              224,
+              247
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1019172374929866752,
+            "id_str": "1019172374929866752",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiTT4AyWAAAGOQL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiTT4AyWAAAGOQL.jpg",
+            "url": "https://t.co/cYg4n08LY4",
+            "display_url": "pic.twitter.com/cYg4n08LY4",
+            "expanded_url": "https://twitter.com/SWAN_UK/status/1019172376741928960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 511,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 902,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1202,
+                "h": 1600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1019172374929866752,
+            "id_str": "1019172374929866752",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/media/DiTT4AyWAAAGOQL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DiTT4AyWAAAGOQL.jpg",
+            "url": "https://t.co/cYg4n08LY4",
+            "display_url": "pic.twitter.com/cYg4n08LY4",
+            "expanded_url": "https://twitter.com/SWAN_UK/status/1019172376741928960/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 511,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 902,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1202,
+                "h": 1600,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 296341919,
+        "id_str": "296341919",
+        "name": "SWAN_UK",
+        "screen_name": "SWAN_UK",
+        "location": "UK",
+        "description": "SWAN UK (Syndromes Without A Name) is run by @GeneticAll_UK offering support and information to families of children with undiagnosed conditions. #undiagnosed",
+        "url": "http://t.co/fJ8uYVIRXs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fJ8uYVIRXs",
+                "expanded_url": "http://www.undiagnosed.org.uk",
+                "display_url": "undiagnosed.org.uk",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 7774,
+        "friends_count": 4387,
+        "listed_count": 158,
+        "created_at": "Tue May 10 16:04:33 +0000 2011",
+        "favourites_count": 2458,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 22354,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "EC008C",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1003638913683030016/_pQphL4q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1003638913683030016/_pQphL4q_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/296341919/1528121166",
+        "profile_link_color": "EC008E",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]
