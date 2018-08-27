@@ -1,11 +1,7 @@
 package com.amc.twitterapp.api
 
 import android.arch.core.executor.testing.InstantTaskExecutorRule
-import android.arch.lifecycle.LiveData
-import android.arch.lifecycle.MutableLiveData
-import com.amc.twitterapp.data.TwitterStatus
-import com.amc.twitterapp.util.TestUtil
-import com.google.gson.reflect.TypeToken
+import com.amc.twitterapp.util.TestUtil.getLatestStatusesResponse
 import org.junit.Assert.assertEquals
 import org.junit.Before
 import org.junit.Rule
@@ -26,22 +22,37 @@ class TwitterServiceTest {
     val rule: TestRule = InstantTaskExecutorRule()
 
     @Mock
-    private lateinit var service: TwitterService
+    private lateinit var twitterService: TwitterService
 
     @Before
     fun initMocks() {
         MockitoAnnotations.initMocks(this)
+
+        `when`(twitterService.getLatestStatuses(
+                871746761387323394,
+                "extended",
+                1,
+                10)).thenReturn(getLatestStatusesResponse())
     }
 
     @Test
     fun twitterService_CorrectResponse() {
-        `when`(service.getLatestStatuses()).thenReturn(getLatestStatusesResponse())
 
-        val statusList = service.getLatestStatuses().value
+        val response = twitterService.getLatestStatuses(
+                871746761387323394,
+                "extended",
+                1,
+                10).value
 
-        verify(service).getLatestStatuses()
+        val statusList = (response as ApiSuccessResponse).body
 
-        assertEquals(statusList!!.size, 10)
+        verify(twitterService).getLatestStatuses(
+                871746761387323394,
+                "extended",
+                1,
+                10)
+
+        assertEquals(statusList.size, 10)
 
         val status = statusList[0]
 
@@ -49,12 +60,5 @@ class TwitterServiceTest {
         assertEquals(status.id, 1031569358391324673)
         assertEquals(status.truncated, false)
         assertEquals(status.displayTextRange!![0], 0)
-    }
-
-    private fun getLatestStatusesResponse(): LiveData<List<TwitterStatus>> {
-        val type = object : TypeToken<List<TwitterStatus>>() {}.type
-        val response = TestUtil.getJsonObject<List<TwitterStatus>>("statuses.json", type)
-
-        return MutableLiveData<List<TwitterStatus>>().apply { value = response }
     }
 }
