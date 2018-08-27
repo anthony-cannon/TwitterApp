@@ -16,11 +16,11 @@
 
 package com.amc.twitterapp.api
 
-import android.util.Log
 import retrofit2.Response
 import java.util.regex.Pattern
 
 /**
+ * Edited By Anthony Cannon
  * Common class used by API responses.
  * @param <T> the type of the response object
 </T> */
@@ -56,7 +56,7 @@ sealed class ApiResponse<T> {
 }
 
 /**
- * separate class for HTTP 204 resposes so that we can make ApiSuccessResponse's body non-null.
+ * separate class for HTTP 204 responses so that we can make ApiSuccessResponse's body non-null.
  */
 class ApiEmptyResponse<T> : ApiResponse<T>()
 
@@ -69,26 +69,8 @@ data class ApiSuccessResponse<T>(
             links = linkHeader?.extractLinks() ?: emptyMap()
     )
 
-    val nextPage: Int? by lazy(LazyThreadSafetyMode.NONE) {
-        links[NEXT_LINK]?.let { next ->
-            val matcher = PAGE_PATTERN.matcher(next)
-            if (!matcher.find() || matcher.groupCount() != 1) {
-                null
-            } else {
-                try {
-                    Integer.parseInt(matcher.group(1))
-                } catch (ex: NumberFormatException) {
-                    Log.w("ApiSuccessResponse", "cannot parse next page from $next")
-                    null
-                }
-            }
-        }
-    }
-
     companion object {
         private val LINK_PATTERN = Pattern.compile("<([^>]*)>[\\s]*;[\\s]*rel=\"([a-zA-Z0-9]+)\"")
-        private val PAGE_PATTERN = Pattern.compile("\\bpage=(\\d+)")
-        private const val NEXT_LINK = "next"
 
         private fun String.extractLinks(): Map<String, String> {
             val links = mutableMapOf<String, String>()
