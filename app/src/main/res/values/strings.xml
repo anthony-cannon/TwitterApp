@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TwitterApp</string>
+    <string name="description_twitter_logo">The Twitter logo</string>
 </resources>
